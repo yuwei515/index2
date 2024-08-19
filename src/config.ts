@@ -92,6 +92,7 @@ const GLOBAL_CONFIG = {
   /**
    * 指定中心 LOGO 图片地址
    */
+  // LOGO_URL: null,
   LOGO_URL: 'src/assets/26418d8f61524be581317322587823b5.gif',
   /**
    * 个人 Github 链接

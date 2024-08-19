@@ -72,7 +72,7 @@ function randomSlogan() {
 const img = ref(null);
 
 onMounted(() => {
-  // console.log(document.querySelector(".main-logo").style);
+  console.log(document.querySelector(".main-logo").style);
   if (img.value) {
     console.log(window.getComputedStyle(img.value).borderRadius);
     setTimeout(() => {
